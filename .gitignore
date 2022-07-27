@@ -1,7 +1,6 @@
 .vscode/settings.json
 app/.vscode/launch.json
 app/.vscode/settings.json
-dockerfile.mng
 app/lib/__pycache__/MongoDB.cpython-310.pyc
 app/lib/__pycache__/General.cpython-310.pyc
 app/lib/__pycache__/Authlib.cpython-310.pyc
